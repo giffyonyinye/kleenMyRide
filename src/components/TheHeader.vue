@@ -12,6 +12,7 @@
                     <li class="inline-block mr-12 mt-8 w-22"><router-link to="/About">Services</router-link></li>
                     <li class="inline-block mr-12 mt-8 w-22"><router-link to="/About">Packages</router-link></li>
                     <li class="inline-block mr-12 mt-8 w-22"><router-link to="/About">Contact Us</router-link></li>
+                    <li class="inline-block mr-12 mt-8 w-22"><router-link to="/About">Book Us</router-link></li>
                 </ul>
             </nav>
 
