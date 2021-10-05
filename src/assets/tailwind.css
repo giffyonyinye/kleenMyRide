@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    @variants active {
+        .active {
+            color: orange;
+            border-bottom: 1px solid grey
+        }
+    }
+}

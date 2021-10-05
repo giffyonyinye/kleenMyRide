@@ -1,4 +1,10 @@
 # kleenmyride
+This project deals with car washing services. Basically home service car washing company.
+
+# Tech Stack
+Vue.Js
+Tailwind css
+Javascript
 
 ## Project setup
 ```
