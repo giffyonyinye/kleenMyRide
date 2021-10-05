@@ -65,7 +65,7 @@
                     </p>
                 </div>
 
-                <div class="  left-1/4 flex mt-10 md:flex-col md:relative">
+                <div class="absolute  left-1/4 flex mt-10 md:flex-col md:relative">
                     <div class=" mt-10 w-2/3 shadow-2xl align-middle p-6">
                         <div class=" font-bold">
                             <img class=" w-16 h-16 m-auto animate-pulse " src="../assets/Images/caricon1.png" alt="car-icon">
